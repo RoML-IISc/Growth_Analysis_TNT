@@ -45,3 +45,12 @@ Voltage(V)  | Diameter(nm) | Length(nm)  | Aspect Ratio
 - Nanotube growth was also tried on the H3PO4 as solvent but deposition was mostly uniform and TNT formation wasn’t visible.
 - On theoretical introspection it can be said that the TNT growth will be affected only after a geometry variations of lesser than micrometers orders.
 - Further TNTs have to be analysed in FSEM Microscope for results.
+
+### [Project Report](https://github.com/tayalmanan28/Growth_Analysis_TNT/blob/main/Report.pdf)
+
+### [Presentation](https://github.com/tayalmanan28/Growth_Analysis_TNT/blob/main/Presentation.pptx)
+
+***
+
+<p align='center'>Created with :heart: by  <a href="https://github.com/tayalmanan28">Manan Tayal</a>, <a> Utkarsh Thakre </a>, <a> Kanishka Sunick</a> & <a>Anish Kulkarni</a></p>
+
