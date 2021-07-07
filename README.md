@@ -34,6 +34,7 @@ Voltage(V)  | Diameter(nm) | Length(nm)  | Aspect Ratio
 20  | 80  | 1000  | 12.5
 30  | 85  | 1100  | 12.94
 40  | 115  | 2000  | 17.39
+
 ![image](https://user-images.githubusercontent.com/42448031/124785472-81108800-df64-11eb-9ce5-adc98f6f4b42.png)
 
 ## Current status and future work to be done
