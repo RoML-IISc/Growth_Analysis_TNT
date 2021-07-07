@@ -15,6 +15,7 @@ Titanium Nanotubes have their major application in biomedical implants due to bi
 - The setups were run for 2 varying input parameters : Voltage, Anodization time.
 - Voltage setups were run for incremental voltages of 10 V, 20 V, 30 V.
 - Anodization time for each of the voltages were 1 hour, 2 hour and 3 hours.
+
 ![image](https://user-images.githubusercontent.com/42448031/124784019-27f42480-df63-11eb-8f69-75b28e8d6e16.png)
 
 ## Observation and Results
