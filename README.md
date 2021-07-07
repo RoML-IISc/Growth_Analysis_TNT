@@ -8,7 +8,7 @@ Titanium Nanotubes have their major application in biomedical implants due to bi
 *The analysis of the properties of Nanotubes become crucial since the Nanotubes increase the surface area by large extent, thus enhancing the catalytic reactive properties.  
 
 ## Experimental Conditions
--Electrolyte with 0.3M H3PO4 and 0.3M NH4 was used at normal room temperature pressure conditions.
+Markup : -Electrolyte with 0.3M H3PO4 and 0.3M NH4 was used at normal room temperature pressure conditions.
 -First setup had Titanium sheets rolled into a cylindrical shape of diameter 8 mm and kept in form using electrical tape.
 -Carbon electrode were held in position between the sheet via DST to maintain a uniform distance from the walls of the sheet.
 -Second setup had Titanium rectangular sheets of 12.6mm, 4mm away from the carbon electrode from the centre of the sheet.
